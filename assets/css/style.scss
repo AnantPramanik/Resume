@@ -23,3 +23,8 @@ footer {
     bottom: -100px;
     -webkit-font-smoothing: subpixel-antialiased;
 }
+
+body > div > header > p:nth-child(4) {
+    overflow-y: scroll; 
+    height: 352px;
+}
