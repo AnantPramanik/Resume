@@ -48,7 +48,7 @@ Resume GitHub Pages is a set of pages created using the jekyll theme. Check the 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AnantPramanik/Resume)
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="/Resume/assets/img/theme.png"/></center>
 
 ---
 
