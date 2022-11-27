@@ -29,8 +29,8 @@ customer needs.
 • Completed 2 Projects on Modernization (Migration with better design) <br>
 
 
-## <img src="https://mma.prnewswire.com/media/1232343/Coforge_Logo.jpg?p=twitter" style="max-width: 60px;"/> Coforge | Senior Associate Data Center Services
-### Mar 2017 - Jul 2021 (4 years 5 months) Associate – Datacenter Services |ERP Team (cloud admin)
+## <img src="https://mma.prnewswire.com/media/1232343/Coforge_Logo.jpg?p=twitter" style="max-width: 60px;"/> Coforge | Senior Associate 
+### Mar 2017 - Jul 2021 (4 years 5 months) Senior Associate – Datacenter Services | ERP Team (cloud admin)
 • Working on POCs (Azure) – IaaS, PaaS, DevOps <br>
 • Discovery and Assessment of current infrastructure using various tools  <br>
 • Infrastructure Deployment and monitoring <br>
