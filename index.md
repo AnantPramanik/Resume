@@ -1,3 +1,15 @@
+# Summary
+A result-driven software professional having 5+ years of extensive hands-on experience,
+with vast experience in Cloud infra building, Migration, Monitoring, Automations, POC,
+Providing Architectural Solution and Support.
+<br>
+<br>
+Well experienced in both IAAS and PAAS implementation.
+<br>
+<br>
+A professional with a passion for bringing ideas to life. Proven success in understanding
+customer needs.
+
 # Experience
 ## <img src="https://s25652.pcdn.co/wp-content/uploads/2021/11/Aristocrat-logo.png" style="max-width: 30px;"/> Aristocrat Technologies | EMEA 
 ### Sep 2022 - Present (3 months +) Technical Lead
