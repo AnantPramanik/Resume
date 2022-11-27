@@ -1,3 +1,14 @@
+# Experience
+## Amdocs | Cloud Engineer 
+### Jul 2021 - Present (10 months +) Cloud Engineer (Migration)
+• Azure DevOps CD Pipeline
+• Azure Infrastructure as a Code Deployments (Terraform)
+• Automation of System configurations and Software installation through PowerShell
+• Migration to Cloud adhering to Microsoft Best Practices and Client set standards
+• Completed 3 Projects on Optimization (Migration as is)
+• Completed 2 Projects on Modernization (Migration with better design)
+
+
 # Data Science Portfolio
 ---
 ## Machine learning
