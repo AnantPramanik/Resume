@@ -29,14 +29,17 @@ body > div > header > p:nth-child(4) {
     height: 352px;
 }
 
+.scroll::-webkit-scrollbar {
+    width: 5px;
+}
+
 .scroll::-webkit-scrollbar-thumb {
-    background: #666;
+    background: rgb(9, 99, 145);
     border-radius: 20px;
   }
   
 .scroll::-webkit-scrollbar-track {
     background: #ddd;
     border-radius: 20px;
-    color:blue;
   }
   
