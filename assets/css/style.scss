@@ -15,3 +15,11 @@ header::-webkit-scrollbar-thumb {
   background-color: darkgrey;
   outline: 1px solid rgb(36, 118, 200);
 }
+
+ooter {
+    width: 270px;
+    float: left;
+    position: fixed;
+    bottom: -100px;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
