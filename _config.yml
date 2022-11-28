@@ -3,8 +3,8 @@ logo: /assets/img/Photo_Blank_BG.jpg
 description:
   <p align="left" class="info-card">
     <br> <i class="fa-sharp fa-solid fa-location-dot"></i> Noida
-    <br> Phone +91-8299027855
-    <br> Email anantkumarpramanik.cs.0004@gmail.com
+    <br> <i class="fa-regular fa-mobile"></i> +91-8299027855
+    <br> <i class="fa-regular fa-envelope"></i> anantkumarpramanik.cs.0004@gmail.com
   </p>
   <p align="left" class="scroll">
     <a href="RESUME_updated.pdf"><img src="https://cdn-icons-png.flaticon.com/512/4726/4726010.png" style="width:15px;"/> Resume</a> |
