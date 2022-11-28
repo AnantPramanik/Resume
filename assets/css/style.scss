@@ -33,6 +33,16 @@ footer {
     border-radius: 12px 0 0 12px;
 }
 
+@media screen and (min-width: 480px) {
+    .info-card
+    {
+        background-color: #267cb9;
+        padding: 12px;
+        color: white;
+        border-radius: 12px;
+    }
+  }
+
 .scroll {
     overflow-y: scroll; 
     height: 180px;
