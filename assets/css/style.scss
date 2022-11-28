@@ -25,7 +25,7 @@ footer {
     display: none;
 }
 
-body > div > header > p:nth-child(4) {
+.scroll {
     overflow-y: scroll; 
     height: 352px;
 }
