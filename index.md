@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Summary
 ---
 A result-driven software professional having 5+ years of extensive hands-on experience,
