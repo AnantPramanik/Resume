@@ -19,7 +19,7 @@ customer needs.
 • Environment Deployments <br>
 • Automation of System configurations and Software installation through Shell <br>
 
-## <img src="./assets/img/amdocs.png" style="max-width: 60px;"/> Amdocs | Cloud Engineer 
+## <img src="./assets/img/amdocs.png" style="max-width: 60px;" alt="company logo"/> Amdocs | Cloud Engineer 
 ### Jul 2021 - Present (10 months +) Cloud Engineer (Migration)
 • Azure DevOps CD Pipeline <br>
 • Azure Infrastructure as a Code Deployments (Terraform) <br>
@@ -29,7 +29,7 @@ customer needs.
 • Completed 2 Projects on Modernization (Migration with better design) <br>
 
 
-## <img src="./assets/img/Coforge_Logo.jpg" style="max-width: 60px;"/> Coforge | Senior Associate 
+## <img src="./assets/img/Coforge_Logo.jpg" style="max-width: 60px;" alt="company logo"/> Coforge | Senior Associate 
 ### Mar 2017 - Jul 2021 (4 years 5 months) Senior Associate – Datacenter Services | ERP Team (cloud admin)
 • Working on POCs (Azure) – IaaS, PaaS, DevOps <br>
 • Discovery and Assessment of current infrastructure using various tools  <br>
