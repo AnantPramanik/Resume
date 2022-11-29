@@ -16,7 +16,7 @@ customer needs.
 
 # Experience
 ---
-## <img src="https://s25652.pcdn.co/wp-content/uploads/2021/11/Aristocrat-logo.png" style="max-width: 60px;"/> Aristocrat Technologies | EMEA 
+## <img src="./assets/img/Aristocrat-logo.png" style="max-width: 60px;"/> Aristocrat Technologies | EMEA 
 ### Sep 2022 - Present (3 months +) Technical Lead
 • DevOps Operations <br>
 • Environment Deployments <br>
@@ -32,7 +32,7 @@ customer needs.
 • Completed 2 Projects on Modernization (Migration with better design) <br>
 
 
-## <img src="https://mma.prnewswire.com/media/1232343/Coforge_Logo.jpg?p=twitter" style="max-width: 60px;"/> Coforge | Senior Associate 
+## <img src="./assets/img/Coforge_Logo.jpg" style="max-width: 60px;"/> Coforge | Senior Associate 
 ### Mar 2017 - Jul 2021 (4 years 5 months) Senior Associate – Datacenter Services | ERP Team (cloud admin)
 • Working on POCs (Azure) – IaaS, PaaS, DevOps <br>
 • Discovery and Assessment of current infrastructure using various tools  <br>
