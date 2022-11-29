@@ -22,7 +22,7 @@ customer needs.
 • Environment Deployments <br>
 • Automation of System configurations and Software installation through Shell <br>
 
-## <img src="/Resume/assets/img/amdocs.png" style="max-width: 60px;"/> Amdocs | Cloud Engineer 
+## <img src="./assets/img/amdocs.png" style="max-width: 60px;"/> Amdocs | Cloud Engineer 
 ### Jul 2021 - Present (10 months +) Cloud Engineer (Migration)
 • Azure DevOps CD Pipeline <br>
 • Azure Infrastructure as a Code Deployments (Terraform) <br>
@@ -51,7 +51,7 @@ Resume GitHub Pages is a set of pages created using the jekyll theme. Check the 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AnantPramanik/Resume)
 
-<center><img src="/Resume/assets/img/theme.png"/></center>
+<center><img src="./assets/img/theme.png"/></center>
 
 ---
 
