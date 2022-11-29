@@ -13,7 +13,7 @@ customer needs.
 
 # Experience
 ---
-## <img src="./assets/img/Aristocrat-logo.png" style="max-width: 60px;"/> Aristocrat Technologies | EMEA 
+## <img src="./assets/img/Aristocrat-logo.png" style="max-width: 60px;" alt="company logo"/> Aristocrat Technologies | EMEA 
 ### Sep 2022 - Present (3 months +) Technical Lead
 • DevOps Operations <br>
 • Environment Deployments <br>
